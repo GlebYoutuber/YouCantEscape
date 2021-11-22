@@ -23,7 +23,7 @@ namespace YouCantEscape
         private bool DISABLE_LWin = false;
         public static void Extract(string nameSpace, string outDirectory, string internalFilePath, string resourceName)
         {
-            //This is Very Important Code... DON'T CHANGE THIS!!!
+            //This is Very Important Code... DON'T CHANGE THIS!!! 
 
             Assembly assembly = Assembly.GetCallingAssembly();
 
